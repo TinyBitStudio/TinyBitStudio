@@ -10,7 +10,7 @@ Somos un pequeño estudio apasionado por la creación de experiencias de juego �
 
 
 - 🚀 **Proyectos en Desarrollo:**
-  - [Cosmic Explorer]: es un juego móvil de aventura en el espacio en 2D que invita a los jugadores a explorar galaxias desconocidas, resolver acertijos cósmicos y enfrentarse a desafíos emocionantes mientras descubren secretos intergalácticos.
+  - [Cosmic Explorer]: es un juego móvil de aventura en el espacio que invita a los jugadores a explorar galaxias desconocidas, resolver acertijos cósmicos y enfrentarse a desafíos emocionantes mientras descubren secretos intergalácticos.
 
 ## Nuestra Visión
 
