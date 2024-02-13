@@ -7,11 +7,6 @@
 
 Somos un pequeño estudio apasionado por la creación de experiencias de juego únicas y divertidas. En TinyBit Studio, buscamos explorar nuevos mundos virtuales y llevar la magia de los videojuegos a cada rincón.
 
-
-
-- 🚀 **Proyectos en Desarrollo:**
-  - [Cosmic Explorer]: es un juego móvil de aventura en el espacio que invita a los jugadores a explorar galaxias desconocidas, resolver acertijos cósmicos y enfrentarse a desafíos emocionantes mientras descubren secretos intergalácticos.
-
 ## Nuestra Visión
 
 En TinyBit Studio, aspiramos a la creación de experiencias de juego que cautiven la imaginación y despierten la emoción en jugadores de todas las edades.
